@@ -1,5 +1,3 @@
-> Software Engineer
-
 <p align="center">
   <img src="https://www.gitskins.com/api/section/hero?username=bradleyxix&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F157209409%3Fu%3D226d0b4cb8e6d52643a4dd2c0122606c01c46c58%26v%3D4" alt="bradleyxix hero visual" />
 </p>
