@@ -1,6 +1,7 @@
 <div align="center">
 
 # Bradley J. Chiwo
+### Software Engineer
 ### Cloud & AI Systems Engineer · AWS Certified
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=60A5FA&center=true&vcenter=true&width=500&lines=Building+Multi-Tenant+SaaS+%26+Cloud+Platforms;Architecting+Autonomous+AI+Agents+%26+RAG;Engineering+Event-Driven+Serverless+Systems)](https://bradleychiwo.netlify.app/)
